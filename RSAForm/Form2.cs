@@ -55,6 +55,9 @@ namespace RSAForm
 
         private void button3_Click(object sender, EventArgs e)
         {
+            if (privateKey == null || message == null) {
+                MessageBox.Show("Пожалуста, загрузите всё необходимые файлы", "Ошибка");
+            }
             using (var saveFileDialog = new SaveFileDialog())
             {
                 if (saveFileDialog.ShowDialog() == DialogResult.OK)

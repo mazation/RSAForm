@@ -52,5 +52,10 @@ namespace RSAForm
             Form2 F2 = new Form2();
             F2.Show();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
