@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAForm", "RSAForm\RSAForm.csproj", "{17D42A18-DC64-4C1D-8E62-711DA9E114B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D42A18-DC64-4C1D-8E62-711DA9E114B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D42A18-DC64-4C1D-8E62-711DA9E114B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D42A18-DC64-4C1D-8E62-711DA9E114B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D42A18-DC64-4C1D-8E62-711DA9E114B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCF86E0-7625-4073-99EB-892ED0D90249}
+	EndGlobalSection
+EndGlobal
